@@ -21,7 +21,7 @@ I like building things that actually manipulate 01010101011001........
 - **Database:** SQLite, MySQL  
 - **Data:** Pandas, NumPy  
 - **Tools:** Git, GitHub  
-- **Basics:** OOP, APIs, JSON, REST
+- **Basics:** OOP, APIs, JSON, REST API
 
 ---
 
