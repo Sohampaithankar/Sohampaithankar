@@ -20,16 +20,11 @@ I like building things that actually manipulate 01010101011001........
 - **Backend:** Flask  
 - **Database:** SQLite, MySQL  
 - **Data:** Pandas, NumPy  
-- **Tools:** Git, GitHub  
+- **Tools:** Git, 
 - **Basics:** OOP, APIs, JSON, REST API
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Weather API + Sensor Data Dashboard**  
-  Flask API + SQLite + external Weather API integration  
-- working in progress....
----
 
 ## 📚 Currently Learning
 - Machine Learning (from scratch)
@@ -42,5 +37,5 @@ I like building things that actually manipulate 01010101011001........
 
 ## 🔗 My Social Media
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soham-paithankar-9b040a239)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/soham-paithankar-9b040a239/))
 
