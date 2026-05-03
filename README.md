@@ -17,7 +17,7 @@ I like building things that actually manipulate 01010101011001........
 
 ## 🛠 Tech Skill's
 - **Language:** Python  
-- **Backend:** Flask  
+- **Backend:** Flask,Django  
 - **Database:** SQLite, MySQL  
 - **Data:** Pandas, NumPy  
 - **Tools:** Git, 
@@ -30,12 +30,9 @@ I like building things that actually manipulate 01010101011001........
 - Machine Learning (from scratch)
 - API design best practices
 - Clean backend architecture
-- Data analysis
+- Development in Django
 ---
 
-## 🤝 Let’s Connect
 
-## 🔗 My Social Media
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/soham-paithankar-9b040a239/))
 
