@@ -7,11 +7,11 @@ I like building things that actually manipulate 01010101011001........
 ---
 
 ## 🚀 What I’m Working On
-- REST APIs using **Flask & FastAPI**
+- REST APIs using **Django**
 - Database design with **SQLite / SQLAlchemy**
-- Learning **Data analysis**
-- IoT + API + Dashboard based projects
-- Learning **Machine Learning fundamentals**
+- Learning **Dsa**
+- IoT + API + Dashboard based projects (completed)
+- Learning **Machine Learning fundamentals (soon)**
 
 ---
 
