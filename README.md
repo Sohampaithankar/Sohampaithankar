@@ -18,7 +18,7 @@ I like building things that actually manipulate 01010101011001........
 ## 🛠 Tech Skill's
 - **Language:** Python  
 - **Backend:** Flask,Django  
-- **Database:** SQLite, MySQL  
+- **Database:** SQLite, MySQL,PostgressSQL   
 - **Data:** Pandas, NumPy  
 - **Tools:** Git, 
 - **Basics:** OOP, APIs, JSON, REST API
@@ -27,10 +27,11 @@ I like building things that actually manipulate 01010101011001........
 
 
 ## 📚 Currently Learning
-- Machine Learning (from scratch)
+- PostgressSQL
 - API design best practices
 - Clean backend architecture
 - Development in Django
+- Authrntication 
 ---
 
 
