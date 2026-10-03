@@ -31,7 +31,7 @@ I like building things that actually manipulate 01010101011001........
 - API design best practices
 - Clean backend architecture
 - Development in Django
-- Authrntication 
+- Authentication 
 ---
 
 
